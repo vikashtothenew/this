@@ -13,6 +13,10 @@ import javax.persistence.Entity;
 public class User {
     @Override
     public String toString() {
+        int x =10;
+        for(int i=0;i<10;i++){
+            System.out.println("X"+i);
+        }
         return super.toString();
 
     }
