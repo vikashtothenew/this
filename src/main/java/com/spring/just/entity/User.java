@@ -16,6 +16,7 @@ public class User {
         int x =10;
         for(int i=0;i<10;i++){
             System.out.println("X"+i);
+            System.out.println("hi");
         }
         return super.toString();
 
